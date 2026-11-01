@@ -1,2 +1,9 @@
 # Blaze and iron golem peace
-When a blaze and an iron golem are near each other, the blaze will ignore the iron golem.
+
+## Setup
+
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
